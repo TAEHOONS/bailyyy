@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="webp" type="Image" />
+      <mapping ext="db-journal" type="PLAIN_TEXT" />
+      <mapping ext="db" type="SQL" />
+      <mapping pattern="frag_tuesdayxml" type="XML" />
+      <mapping pattern="frag_wednesdayxml" type="XML" />
+    </extensionMap>
+  </component>
+</application>
